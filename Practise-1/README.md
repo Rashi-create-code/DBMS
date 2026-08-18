@@ -37,7 +37,7 @@ This repository contains the complete ER Model design, Object-Oriented Class Dia
 
 ## Question 2: Object-Oriented (OO) Model
 
-![Object-Oriented Class Diagram](./OO_MODEL.png)
+![Object-Oriented Class Diagram](./OO_Model.png)
 
 ### 1. Class Definitions
 * **`Person`** *(Superclass)*
