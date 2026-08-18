@@ -1,4 +1,4 @@
-# Lab Assignment: Library Management System Architecture
+# Lab Practice : Library Management System Architecture
 
 This repository contains the complete ER Model design, Object-Oriented Class Diagram, and relational schema mappings for the **Library Management System**.
 
