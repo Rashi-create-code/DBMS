@@ -47,7 +47,7 @@ is treated as a higher-level **Reservation Approval Process**, which is associat
 
 ### EER Diagram
 
-![EER Model](images/EER_Model.png)
+![EER Model](./EER_Model.png)
 
 ---
 
@@ -71,7 +71,7 @@ The main relations include:
 
 ### Relational Model Diagram
 
-![Relational Model](images/Library_Relational_Model.png)
+![Relational Model](./Library_Relational_Model.png)
 
 ---
 
